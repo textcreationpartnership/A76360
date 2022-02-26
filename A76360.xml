@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The devil's an asse: or, the policy of hell made plain to the dwellers on earth Being a serious reflection upon the late inhumane rebellious warr. Wherein is laid open the folly as well as wickednesse of that horrid sin of rebellion. By T.B.</title>
+            <author>T. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76360</idno>
+            <idno type="STC">Wing B180B</idno>
+            <idno type="STC">ESTC R223583</idno>
+            <idno type="EEBO-CITATION">99896528</idno>
+            <idno type="PROQUEST">99896528</idno>
+            <idno type="VID">133595</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76360)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133595)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2417:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The devil's an asse: or, the policy of hell made plain to the dwellers on earth Being a serious reflection upon the late inhumane rebellious warr. Wherein is laid open the folly as well as wickednesse of that horrid sin of rebellion. By T.B.</title>
+                  <author>T. B.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133595:1" rendition="simple:additions"/>
+            <p>THE DEVIL'S AN ASSE: OR, The Policy of Hell made plain to the dwellers on Earth. Being A SERIOUS Reflection upon the late Inhumane Rebellious WARR.</p>
+            <p>Wherein is Laid Open the Folly as well as wick<g ref="char:EOLhyphen"/>edneſſe of that horrid ſin of Re<g ref="char:EOLhyphen"/>bellion.</p>
+            <p>By <hi>T. B.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed 1660.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:133595:2"/>
+            <p>Gentlemen, having heard of a ſeditious Libell, now lately caſt abroad, I could not but remember the evill conſequence of ſuch things formerly, and therefore caſt in my, Mite to the Loyall Treaſury, which, if pro<g ref="char:EOLhyphen"/>ſperous by your acceptation, I ſhall be incouraged to proceed.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:133595:2"/>
+            <head>THE DEVIL'S An ASSE.</head>
+            <p>
+               <seg rend="decorInit">H</seg>A my beloved, are you thereabouts with your bears? I thought the Devill had been a cunninger knave, than to think to play over an old Game, when the World is ſo ſenſible of that piece of Roguery. What! <hi>Mazarin</hi> and the <hi>Scot,</hi> with an infinite ſwarme of I know not what tatterde<g ref="char:EOLhyphen"/>mallian vermin, and confuſed rabble of whining Sectaries! and fierce <hi>John</hi>—too, with his re<g ref="char:EOLhyphen"/>verend beak, muſt be gooſified once more, to ſave forſooth (when indeed their Aims were to de<g ref="char:EOLhyphen"/>ſtroy) our Capitoll. O rare Rogues! is there yet ſuch impudent folly to be found in this ſo lately
+<pb n="4" facs="tcp:133595:3"/> Chaſtiſed Nation? Can the Devill beſot theſe wretches ſo, as that they ſhould be inſenſible of ſo ſtupendous a Providence, as the reſtoring of our Soveraign, Lawes, and Liberties together; nay this Miraculous cure being wrought, when the Na<g ref="char:EOLhyphen"/>tion gaſped as it were for it's laſt breath, and that without the leaſt Force, might convince, (if poſſi<g ref="char:EOLhyphen"/>ble) the Devill himſelf of folly, in indeavouring to croſs ſo cleare a Providence; and all men not abſolutely bewitched, and beſotted with Sciſmati<g ref="char:EOLhyphen"/>call, and Rebellious Incantions of Atheiſme, Irre<g ref="char:EOLhyphen"/>ligion, and plain fighting againſt God himſelfe, who ſhall not, not onely reſt ſatisfied, but rejoyce in this happy recovery of our Church and State, from Anarchy, Rebellion, and Confuſion, to a pro<g ref="char:EOLhyphen"/>bable way of Unity, Peace, Concord, and con<g ref="char:EOLhyphen"/>ſequently all poſſible happineſſe. But I ſhall in great earneſt endeavour to ſhew the World by what meanes, honeſt, poore, ignorant people have been drawn in, and inſnared by the Devill and his Agents, to their own deſtruction; and as God is more wiſe, and more Powerfull than he, how that proverb hath been verified upon the infernall Father of Secta<g ref="char:EOLhyphen"/>ries, and Hereticks, Give him rope enough, and he will hang himſelfe. By the permisſion of the Almigh<g ref="char:EOLhyphen"/>ty, and for our Triall, that Grand Maſter of Poli<g ref="char:EOLhyphen"/>ticks hath played the higheſt game within theſe twenty yeares in <hi>England, Scotland,</hi> and <hi>Ireland,</hi> that ever the World heard of; for he hath domineer'd Generally, and particularly over good and bad: over the Eſtates, Perſons, and ſometimes lives of the former, in the hearts, heads, and mindes of the latter: How many miſerable <hi>Jobs</hi> have we ſeen,
+<pb n="5" facs="tcp:133595:3"/> who, not onely loſt their children, cattell, and all outward comforts, but even wanted the liberty of a dunghill, and potſheard to ſcratch their ſores, and were not permitted ſo much as the air, only be<g ref="char:EOLhyphen"/>cauſe they breathed Loyalty, and fidelity.</p>
+            <p>But this was not his higheſt project. The World knowes it were impoſſible for the Devill to deceive any conſiderable part of men in his own likeneſs, or that any man ſhould be in love with Hell torments, under their true notion and appearance. But the courſe he ever took to inſnare and catch men, was to ſugar over his baits, to put on the garb of Sanctity, and extraordinary zeal, when he would perſwade to Hereſie, and ever-fought againſt the Church with, and endeavoured to turn her own Weapons of Sanctity and patient ſuffering, againſt her own breaſt. But yet could never before bring the World in love with ſin, yea the greateſt of ſins, Rebellion, murther, Rapine, uſurpation, and what not unheard of inhumanities till theſe late times, which to de<g ref="char:EOLhyphen"/>monſtrate fully, would require an indefatigable pen, and large volume, the ſubject is ſo large; however, I will ſay what I can within the narrow compaſs of a ſheet: and firſt to the meanes he uſed to bring this about.</p>
+            <p n="1">1. It is to be underſtood, the Devill can work onely by naturall meanes, having attained no ſuper<g ref="char:EOLhyphen"/>naturall excellency, what ever ignorant people ſup<g ref="char:EOLhyphen"/>poſe, and are fool'd into the belief of by that Father of lies. Now for the particulars, he who knowes any thing, cannot be ignorant that there were ſome abuſes in the Court of our late King of bleſſed me<g ref="char:EOLhyphen"/>mory as there ever were, are, and muſt be in all
+<pb n="6" facs="tcp:133595:4"/> 
+               <hi>Courts</hi> and <hi>Concourſes</hi> of people and power under Heaven, this weakeſt imaginable, did that ſpirit of darkneſs, joyning with the fitteſt opportunities, make the ſtrongeſt, pretenſe to raiſe the emulous ambiti<g ref="char:EOLhyphen"/>on and avarice of thoſe he made his inſtruments to colour all the deteſtable, impudent, lying paſquills and ſatyricall libels thoſe Engines of Hell then caſt out againſt our <hi>Court, Church</hi> and <hi>State.</hi> I need not inſiſt upon the depraved nature of man, how credulous of any evill, nor of the common experi<g ref="char:EOLhyphen"/>ence of the dire execution of thoſe paper-ſhot, but onely remind thoſe at the ſtern, to be carefull to cruſh ſuch ſcorpions in the ſhell, ſince 'tis plain, the ſame brood is now hatching.</p>
+            <p>The Ratsbane of Rebellion being thus laid in e<g ref="char:EOLhyphen"/>very corner of the Nation, yet wanted the full ope<g ref="char:EOLhyphen"/>ration upon the ſpirits of the vulgar, till thoſe after<g ref="char:EOLhyphen"/>wards call'd <hi>Non-conformiſts,</hi> perſons ſome way diſap<g ref="char:EOLhyphen"/>pointed in their expected preferments, by the merits of better men, and thereby incenſed, became inve<g ref="char:EOLhyphen"/>terate inveighers againſt all Authority, and by the ſtygian waters of their peſtiferous Lecture-Sermons ſo intoxicated the deluded people, that they who be<g ref="char:EOLhyphen"/>fore lived in the enjoyments of peace, plenty and contentment in their ſtations, begin to think them<g ref="char:EOLhyphen"/>ſelves above their Neighbours in Sanctity, and preach the promiſe that <hi>the Saints ſhould inherit the Earth,</hi> and thought it grievous to be top't by their Lords, and the Prerogatives of the King and Peers.</p>
+            <p n="3">3. When theſe <hi>Kirk Dragons</hi> had performed their parts with wonderfull dexterity, then <hi>Lucifer</hi> drawes out his ſtate Engineers, who now by the incourage<g ref="char:EOLhyphen"/>ment of a confuſed cry of rabble, diſpute, firſt pri<g ref="char:EOLhyphen"/>vately,
+<pb n="7" facs="tcp:133595:4"/> then publiquely, the priviledges of the people againſt the Prerogatives of the King, deny firſt one, and then all: and all this was honied over with the Title of <hi>The Free born People of England,</hi> which in<g ref="char:EOLhyphen"/>deed proved ſo taking, that the Parliament general<g ref="char:EOLhyphen"/>ly began to think it a fine thing to be equall to, or above their Soveraign, and in fine, from one degree of infatuation to another were come to that, they raiſed Arms againſt his late Majeſty, and having run on ſo far in rebellion, as to the cutting off many of the gallanteſt Perſons in the Nation, and exhauſting the Treaſury and Kingdom indeed, by their rebelli<g ref="char:EOLhyphen"/>ous Warre, the more active had no way left, but to maintain thoſe wickedneſſes, they had perpetrated by attempting higher, and ſo proceeded to the mur<g ref="char:EOLhyphen"/>ther of their onely too patient and good King. Then were they cock-ſure, enjoyed the Nation by Con<g ref="char:EOLhyphen"/>queſt, and none were endured, but who could with helliſh impudence ſlander and vilifie the ſacred Per<g ref="char:EOLhyphen"/>ſon as well as Relations of our gracious Soveraign, concluding their Empire was as laſting as their ſpi<g ref="char:EOLhyphen"/>rits unlimited: but when theſe Vermin came to drink freely of the waters of proſperity, their Poyſon workt ſo highly, they became obnoxious to all the World, and this bait of the Devill grew as uſeleſs, as odious, and at laſt Lucifer and his Inſtruments were forc't to quit their Dominion to God and his Anointed, to which God be prayſe and glory, for ever and ever.</p>
+            <p>
+               <hi>Thus you ſee by a familiar inſtance the methods of iniqui<g ref="char:EOLhyphen"/>ty, the meanes of the moſt accurſed machinations of Hell, and the deſigns of that firſt of Rebels the Devill, to bring all
+<pb n="8" facs="tcp:133595:5" rendition="simple:additions"/> men into his own condition, as it is reported, to be naturall to thoſe who are infected with the Plague, to reduce all men as far as they are able into their own miſerable condition. Now that you may ſee the folly as well as miſery of rebelli<g ref="char:EOLhyphen"/>on, let us trace it from the very firſt riſe. Was not the Devill himſelf whom Rebels themſelves wonder at for that Maſterpiece of ſin, the firſt Preſident of Rebellion and Apoſtacy? Did not he lead the game to all the World? And who will not tremble to think of becoming a Proſelyte to the Prince of torment? Conſider the policy of your grand Maſter, who becauſe he could not be content to continue a loyall ſubject in Heaven it ſelf, is become a tormented De<g ref="char:EOLhyphen"/>vill in the loweſt Hell? And (to be ſhort) you who ſnarl, libel,</hi> &amp;c. <hi>againſt our gracious Soveraign, conſider whether your caſe be any thing different from that proud rebellious Angel, who ſleighted the Incarnate as you do the Anointed of God: but that, as his Creation, ſo his capacity, and conſe<g ref="char:EOLhyphen"/>quently his ſin and puniſhment, are and will be higher. But ſtill his folly and yours, who in your capacities, might equally enjoy happineſs, as is hath already in part, will more manifeſtly if you proceed, appear to be more than beſtiall: which God forbid:</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
